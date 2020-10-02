@@ -1,0 +1,90 @@
+header {
+  background-color: cyan;
+  padding: 6px;
+}
+
+header h1 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: whitesmoke;
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+}
+
+footer {
+  text-align: center;
+  background-color: cyan;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+}
+
+.mylife {
+  display: flex;
+  justify-content: center;
+}
+
+.mylife .Pic {
+  width: 200px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.animemain {
+  display: flex;
+  justify-content: center;
+}
+
+.animesecondary {
+  display: flex;
+  justify-content: center;
+}
+
+.gundam {
+  display: flex;
+  justify-content: center;
+}
+
+.videogamemain {
+  display: flex;
+  justify-content: center;
+}
+
+.videogamesecondary {
+  display: flex;
+  justify-content: center;
+}
+
+.yourname {
+  display: flex;
+  justify-content: center;
+}
+
+.koenokatachi {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  width: 550px;
+}
+
+.header a:hover {
+  background-color: whitesmoke;
+}
+
+.title {
+  text-align: center;
+}
+
+.trainingmain {
+  display: flex;
+  justify-content: center;
+}
